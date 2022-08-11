@@ -1,2 +1,2 @@
 # house_rented_property
-Create, insert, modify table with SQL 
+Create, insert, modify table with postgreSQL. 
